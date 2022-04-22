@@ -1,0 +1,28 @@
+
+    git command : 
+    => git add -A - add all untracked event from stage
+    => git instaweb --httpd=webrick -p <port> - ui based checking for commit
+    => git commit -m "<message>" - commits the changes in local repository
+    => git add -p <filepath> - interactive add
+    => git reset --soft HEAD~1 - pull back the commit
+    => git checkout -b <branchname> - creates new branch with the branch name and switch it to the new branch
+    => git checkout <branchname> - switches to the respective branch name
+    => git branch - shows which branch you are currently working with
+    => git rebase <branchname> - attach the new changes on the top of the branch name
+    => git pull - fetch the changes from remote repository and change the local directory
+    => git 
+
+    Learning from git :
+    1) LINEAR DEVELOPMET
+    2) Conflict Resolving
+    3) Rebase and merge
+    4) Intra team collaboration
+
+
+    Extra : 
+    1) Trunk-Based Development - Continuous deployment
+    2) Feature Branching - branch per feature, short delivery cycles, continuous delivery
+    3) Forking Strategy - mostly for open source,
+    4) Release branching - branch per release, low frequency deployment, no continuous integraton, support for previous releases
+    5) Git Flow - all branched screwed up,
+    6) Environment Branching - Branching on top of all other
