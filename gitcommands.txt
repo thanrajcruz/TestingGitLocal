@@ -10,7 +10,7 @@
     => git branch - shows which branch you are currently working with
     => git rebase <branchname> - attach the new changes on the top of the branch name
     => git pull - fetch the changes from remote repository and change the local directory
-    => git 
+    => git branch <branchname> <commit-code> - start a new branch with branch name with head from commit-code from tree
 
     Learning from git :
     1) LINEAR DEVELOPMET
